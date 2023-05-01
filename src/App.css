@@ -13,10 +13,9 @@
 }
 
 :root {
-  --color-primary:#4369B2;
-  --color-dark-blue: #4063A6;
-  --color-light-blue:#5789E5;
-
+  --color-primary: #4369b2;
+  --color-dark-blue: #4063a6;
+  --color-light-blue: #5789e5;
 }
 
 html {
