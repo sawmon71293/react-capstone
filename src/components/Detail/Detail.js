@@ -52,7 +52,7 @@ const Detail = () => {
               <h4>Taste</h4>
               <FaFish size={20} className="icon" />
             </div>
-            <div>{HTMLReactParser(selectFish.taste)}</div>
+            <div>{HTMLReactParser(String(selectFish.taste))}</div>
 
           </Typography>
           <Typography variant="h6" style={customStyle} component="div">
@@ -61,7 +61,7 @@ const Detail = () => {
               <h4>Availability</h4>
               <FaFish size={20} className="icon" />
             </div>
-            <div>{HTMLReactParser(selectFish.availability)}</div>
+            <div>{HTMLReactParser(String(selectFish.availability))}</div>
 
           </Typography>
           <Typography variant="h6" style={customStyle} component="div">
@@ -70,7 +70,7 @@ const Detail = () => {
               <h4>Texture</h4>
               <FaFish size={20} className="icon" />
             </div>
-            <div>{HTMLReactParser(selectFish.texture)}</div>
+            <div>{HTMLReactParser(String(selectFish.texture))}</div>
 
           </Typography>
           <Typography variant="h6" style={customStyle} component="div">
@@ -79,7 +79,7 @@ const Detail = () => {
               <h4>Source</h4>
               <FaFish size={20} className="icon" />
             </div>
-            <div>{HTMLReactParser(selectFish.source)}</div>
+            <div>{HTMLReactParser(String(selectFish.source))}</div>
 
           </Typography>
           <Typography variant="h6" style={customStyle} component="div">
@@ -88,7 +88,7 @@ const Detail = () => {
               <h4>Health Benefits</h4>
               <FaFish size={20} className="icon" />
             </div>
-            <div>{HTMLReactParser(selectFish.healthBenefits)}</div>
+            <div>{HTMLReactParser(String(selectFish.healthBenefits))}</div>
 
           </Typography>
         </CardContent>

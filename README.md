@@ -17,6 +17,7 @@
   - [Usage](#usage)
   - [Run Tests](#runtests)
   - [Live](#live)
+  - [Video](#video)
 
 - [👥 Author](#authors)
 - [🔭 Future Features](#features)
@@ -58,10 +59,10 @@
 
 This is to practice React
 
-- **Styling**
+- **Styling using MUI**
 - **Redux**
 - **Fetch data from API**
-- **Test using React testing library**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,7 +113,10 @@ You can deploy this project using:
 
 ### Live <a name="live"></a>
 
-- This page is yet to be deployed
+- Live: [@fishwatch](https://fishwatch.onrender.com/)
+
+### Video <a name="video"></a>
+- Video: [@video](https://www.loom.com/share/69f5276de20b4ac1928f7b1c074336e1)
 
 ## 👥 Author <a name="authors"></a>
 
