@@ -104,7 +104,7 @@ You can deploy this project using:
 
 ### Video <a name="video"></a>
 - Live Video: 
-[video](https://www.loom.com/share/69f5276de20b4ac1928f7b1c074336e1)
+[video](https://www.loom.com/share/0c1d7ff0af464e7399705f34f070cbd1)
 
 ## 👥 Author <a name="authors"></a>
 
