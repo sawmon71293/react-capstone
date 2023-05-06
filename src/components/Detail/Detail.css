@@ -1,0 +1,24 @@
+.detail {
+  height: 300px;
+}
+
+.full-height-card {
+  height: 100vh;
+}
+
+.caption {
+  display: flex;
+}
+
+.caption > svg {
+  margin-top: 4px;
+}
+
+.center {
+  display: flex;
+}
+
+.icon {
+  margin-left: 12px;
+  margin-right: 6px;
+}

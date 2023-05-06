@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;1,700&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -20,4 +22,13 @@
 
 html {
   scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Lato', serif;
+  color: white !important;
+}
+
+.back {
+  color: #fff;
 }
