@@ -26,23 +26,10 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 FishWatch <a name="about-project"></a>
 
-**FishWatch** is a website to implement as follows:
-
-- Use React documentation.
-- Use React components.
-- Use React props.
-- Use React Router.
-- Connect React and Redux.
-- Handle events in a React app.
-- Write integration tests with a React testing library.
-- Use styles in a React app.
-- Use React life cycle methods.
-- Apply React best practices and language style guides in code.
-- Use store, actions and reducers in React.
+**FishWatch** is a website showing the sustainable seafood and facts about each species filtered by US Regions.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -53,7 +40,6 @@
 <a name="tech-stack">React,</a>
 <a name="tech-stack">Redux</a>
 
-<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
@@ -113,10 +99,12 @@ You can deploy this project using:
 
 ### Live <a name="live"></a>
 
-- Live: [@fishwatch](https://fishwatch.onrender.com/)
+- Live Demo: 
+[fishwatch](https://fishwatch.onrender.com/)
 
 ### Video <a name="video"></a>
-- Video: [@video](https://www.loom.com/share/69f5276de20b4ac1928f7b1c074336e1)
+- Live Video: 
+[video](https://www.loom.com/share/69f5276de20b4ac1928f7b1c074336e1)
 
 ## 👥 Author <a name="authors"></a>
 
@@ -131,8 +119,6 @@ You can deploy this project using:
 - Add more functionalities
 
 
-<!-- CONTRIBUTING -->
-
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
@@ -141,7 +127,6 @@ Feel free to  check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -149,7 +134,6 @@ If you like this project, please consider a star on GitHub!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
@@ -157,7 +141,6 @@ I would like to thank Microverse for the opportunity to dream big.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
